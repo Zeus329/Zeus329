@@ -4,7 +4,7 @@
   "description": "",
   "main": "zs329.js",
   "scripts": {
-  "start": "node nombre del archivo creado anteriormente.js"
+  "start": "zs329.js"
   },
   "dependencies": {npm start
     "@adiwajshing/baileys": "^3.4.1"
