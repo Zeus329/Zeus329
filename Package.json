@@ -1,0 +1,12 @@
+{
+  "name": "nombre ",
+  "version": "0.0.0",
+  "description": "",
+  "main": "zs329.js",
+  "scripts": {
+  "start": "node nombre del archivo creado anteriormente.js"
+  },
+  "dependencies": {npm start
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
